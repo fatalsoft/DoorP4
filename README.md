@@ -26,6 +26,8 @@ Current development platform:
 - ES8311 audio codec / speaker output
 - Ethernet connection
 
+![DoorP4](wiring.jpg)
+
 ## Project status
 
 DoorP4 is already running as a functional SIP door intercom with bidirectional audio.
