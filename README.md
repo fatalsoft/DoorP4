@@ -1,6 +1,6 @@
 # DoorP4 – ESP32-P4 Video SIP Door Intercom
 
-**Current release V1.02a provides SIP audio. Video support is planned using an external IP camera integrated via the FRITZ!Box. The ESP32-P4 camera interface is intentionally not used.**
+**Current release V1.02a provides SIP audio. Video support is planned using an external IP camera integrated via the FRITZ!Box. The ESP32-P4 camera interface is currently not used and can be added as an optional extension.**
 
 ![DoorP4](Image8.jpg)
 
