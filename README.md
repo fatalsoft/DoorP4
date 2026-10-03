@@ -31,9 +31,7 @@ Current development platform:
 
 ![DoorP4](wiring.jpg)
 
-
-Detailed FRITZ!Box setup guide:
-See DoorP4_FRITZBox_Configuration.pdf for the complete step-by-step configuration with screenshots.
+Detailed FRITZ!Box setup guide: See [DoorP4_FRITZBox_Configuration.pdf](DoorP4_FRITZBox_Configuration.pdf) for the complete step-by-step configuration with screenshots.
 
 
 ## Project status
