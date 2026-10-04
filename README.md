@@ -35,6 +35,8 @@ Current development platform:
 Detailed FRITZ!Box setup guide: See [DoorP4_FRITZBox_Configuration.pdf](DoorP4_FRITZBox_Configuration.pdf) for the complete step-by-step configuration with screenshots.
 
 
+![DoorP4](DoorP4_ani.gif)
+
 ## Project status
 
 DoorP4 is already running as a functional SIP door intercom with bidirectional audio.
