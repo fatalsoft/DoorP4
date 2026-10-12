@@ -21,7 +21,7 @@ The current version **V1.02a** provides:
 - G.711 A-law (PCMA) audio over RTP
 - Simple web interface
 
-![DoorP4](Image8.jpg)
+![DoorP4](Image7.jpg)
 
 ## Hardware
 
