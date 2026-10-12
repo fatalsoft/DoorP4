@@ -23,9 +23,23 @@ The current version **V1.02a** provides:
 
 ## Camera Support
 
-Video can be provided either by an external IP camera integrated through the FRITZ!Box or by using the ESP32-P4's own camera interface.
+DoorP4 can use an existing external IP camera through the FRITZ!Box.
 
-The built-in camera option is not yet implemented in DoorP4, but the hardware supports it and the functionality can be added as a future extension. 
+If you already have an IP camera running on your network, you can use it to display camera images on your FRITZ!Fon when someone rings the doorbell. **No modifications to the DoorP4 source code are required.**
+
+To configure this, open the FRITZ!Box web interface:
+
+**Telephony → Telephony Devices → Edit Door Intercom → Live Image**
+
+Enter the image URL provided by your IP camera (for example, `http://192.168.1.100/snapshot.jpg`). The camera must provide an image format supported by the FRITZ!Box.
+
+For detailed setup instructions, see the official AVM guide:
+
+**[AVM – Setting up an IP door intercom in the FRITZ!Box](https://at.fritz.com/service/wissensdatenbank/dok/FRITZ-Box-7590/3513_IP-Tursprechanlage-in-FRITZ-Box-einrichten/)**
+
+The camera image shown in the screenshots below comes from an existing external IP camera configured this way.
+
+Alternatively, the ESP32-P4's own camera interface could be used. **This option is not yet implemented in DoorP4**, but the hardware provides the necessary interface for a future extension.
 
 ![DoorP4](Image7.png)
 
