@@ -20,8 +20,7 @@ The current version **V1.02a** provides:
 - ES8311 audio output
 - G.711 A-law (PCMA) audio over RTP
 - Simple web interface
-
-![DoorP4](Image7.jpg)
+ 
 
 ## Hardware
 
