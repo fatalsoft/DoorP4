@@ -20,8 +20,15 @@ The current version **V1.02a** provides:
 - ES8311 audio output
 - G.711 A-law (PCMA) audio over RTP
 - Simple web interface
- 
+
+## Camera Support
+
+Video can be provided either by an external IP camera integrated through the FRITZ!Box or by using the ESP32-P4's own camera interface.
+
+The built-in camera option is not yet implemented in DoorP4, but the hardware supports it and the functionality can be added as a future extension. 
+
 ![DoorP4](Image7.png)
+
 
 ## Hardware
 
